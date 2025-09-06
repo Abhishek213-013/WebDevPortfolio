@@ -43,9 +43,10 @@ npm install
 
 # Start development server
 npm run dev
+```
 
-📬 Contact
-
-Name: Abhishek Chowdhury
-
-Email: abhishekchowdhury054@gmail.com
+## 📬 Contact
+- **Name:** Abhishek Chowdhury
+- **Email:** [abhishekchowdhury054@gmail.com](url)
+- **LinkedIn:** [https://www.linkedin.com/in/abhishek-chowdhury-93927b278/](url)
+- **GitHub:** [https://github.com/Abhishek213-013](url)
