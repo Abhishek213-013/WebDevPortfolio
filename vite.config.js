@@ -5,3 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   plugins: [react(), tailwindcss()],
 });
+export default defineConfig({
+  base: "/WebDevPortfolio/",
+  plugins: [react()],
+})
