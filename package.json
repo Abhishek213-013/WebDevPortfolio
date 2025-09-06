@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://abhishek213-013.github.io/WebDevPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
